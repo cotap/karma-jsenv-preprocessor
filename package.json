@@ -1,0 +1,24 @@
+{
+  "name": "karma-jsenv-preprocessor",
+  "version": "0.1.0",
+  "description": "A Karma preprocessor to export JsEnv files as CommonJS modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cotap/karma-jsenv-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "jsenv"
+  ],
+  "author": "Marco Lazzeri <marco@cotap.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cotap/karma-jsenv-preprocessor/issues"
+  },
+  "homepage": "https://github.com/cotap/karma-jsenv-preprocessor"
+}
